@@ -1,0 +1,5 @@
+Resume Git & Github
+
+1. Git merupakan sebuah VCS ( Version Control System ) yang populer dan paling banyak digunakan oleh para developer untuk mengembangkan perangkat lunak secara bersama-sama
+2. Perbedaan antara Git dan Github yaitu Git hanya secara local di perangkat yang kalian gunakan, sedangkan Github itu menggunakan cloud sehingga bisa diakses dari mana saja dan dapat dilihat oleh siapa saja. untuk pengalaman yang lebih baik yaitu dengan menghubungakn git yang terinstall di perangkat kita dengan github.
+3. Penggunaan Git menggunakan command command yang perlu diingat untuk menggunakannya walaupun sebenarnya sudah ada Git GUI.
